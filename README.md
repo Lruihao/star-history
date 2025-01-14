@@ -57,7 +57,6 @@
 
 <a href="https://dify.ai/?utm_source=star-history"><img src="https://raw.githubusercontent.com/star-history/star-history/main/public/sponsors/dify/landing.webp" /></a>
 
-
 ### Code Contributors
 
 <a href="https://github.com/star-history/star-history/graphs/contributors">
@@ -69,6 +68,8 @@
 We need invididual tokens to bypass GitHub API rate limiter, thanks to all our donators:
 
 [mrnossiom](https://github.com/mrnossiom)
+[Vaishnav-sabari-girish](https://github.com/Vaishnav-sabari-girish)
+[Pierre Cavin](https://github.com/sherlox)
 
 ## ✨ Features
 
