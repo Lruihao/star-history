@@ -17,14 +17,14 @@ const options = {
   // the number of most recently used items to keep,
   // based on the monthly visit count with `o/pv-star`.
   max: 80000,
-  // max cache memory cost bytes: about 256Mb.
-  maxSize: 256 * 1024 * 1024,
+  // max cache memory cost bytes: about 512Mb.
+  maxSize: 512 * 1024 * 1024,
   // calc cache size with its bytes.
   sizeCalculation: (value: RepoData) => {
     return utils.calcBytes(value);
   },
-  // max 3 hours to live.
-  ttl: 1000 * 60 * 60 * 3,
+  // max 24 hours to live.
+  ttl: 1000 * 60 * 60 * 24,
   updateAgeOnGet: false,
 };
 
