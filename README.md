@@ -69,7 +69,6 @@ We need invididual tokens to bypass GitHub API rate limiter, thanks to all our d
 
 [mrnossiom](https://github.com/mrnossiom)
 [Vaishnav-sabari-girish](https://github.com/Vaishnav-sabari-girish)
-[Pierre Cavin](https://github.com/sherlox)
 
 ## ✨ Features
 
